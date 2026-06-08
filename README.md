@@ -1,10 +1,22 @@
-# Weekly-Stock-Comparison-Tracker (Dashboard creation using MS Excel)
+# Weekly Aging Stock Tracker — RCF Fertilizers, West Bengal
+# An Excel-based dealer monitoring system tracking 95 dealers across 17 districts for Rashtriya Chemicals and Fertilizers Ltd.
 ## Project Objective
-The Weekly-Stock-Comparison-Tracker wants to track and compare Total Stocks & Aging Stocks weekly to get a clear understanding & follow up accordingly. So that, each any every dealer in West Bengal that are associated with RCF will get an update & The organization will get a clear visualisation of Stock clearance.
+The Weekly-Stock-Comparison-Tracker was built to monitor and compare weekly stock and aging stock data across all RCF dealers in West Bengal, enabling timely follow-up and clearance action.
 
 
 ## Dataset Used
 - <a href="https://github.com/Dairanji/Weekly-Stock-Comparison-Tracker/blob/main/WEEKLY%20180%2B%20AGING%20STOCK%20TRACKER%20DEALER%20WISE.xlsx">Dataset</a>
+
+## Toos Used
+- Excel
+- Pivot Tables
+- Conditional Formatiing
+- Charts
+
+## How to Use (For a new week)
+- Step 1: Paste your WH+RT Current data into WH+RT Previous sheet
+- Step 2: Paste your new week data into WH+RT Current sheet
+- Step 3: Refresh pivot tables
 
 ## Questions (KPIs)
 - Which dealers are holding stock for more than 180 days — and exactly how much?
@@ -39,4 +51,4 @@ The Weekly-Stock-Comparison-Tracker wants to track and compare Total Stocks & Ag
 
 
 ## Final Conclusion
-Managing aging stock across 95+ dealers over 17 districts used to mean chasing data from multiple sources. This tracker puts everything in one place — updated weekly, easy to read, and built to drive action. It's a simple tool that solves a real operational problem.
+Managing aging stock across 95+ dealers over 17 districts used to mean chasing data from multiple sources. This tracker puts everything in one place — updated weekly, easy to read, and built to drive action. It's a simple tool that solves a real operational problem while reducing follow-up time from one week to 1/2 days.
