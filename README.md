@@ -25,7 +25,7 @@ The Weekly-Stock-Comparison-Tracker wants to track and compare Total Stocks & Ag
 
 ## Dashboard
 
-<img width="1536" height="1230" alt="WEEKLY 180+ DASHBOARD SCREENSHOT" src="https://github.com/user-attachments/assets/f37fb23d-2d2c-4f6e-a72b-e347ae7db1c2" />
+![WEEKLY 180+ DASHBOARD SCREENSHOT](WEEKLY%20180%2B%20DASHBOARD%20SCREENSHOT.png) 
 
 
 ## Project Insight
