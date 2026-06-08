@@ -1,5 +1,4 @@
-# Weekly Aging Stock Tracker — RCF Fertilizers, West Bengal
-# An Excel-based dealer monitoring system tracking 95 dealers across 17 districts for Rashtriya Chemicals and Fertilizers Ltd.
+# Weekly Aging Stock Tracker — RCF Fertilizers, West Bengal (An Excel-based dealer monitoring system tracking 95 dealers across 17 districts for Rashtriya Chemicals and Fertilizers Ltd.)
 ## Project Objective
 The Weekly-Stock-Comparison-Tracker was built to monitor and compare weekly stock and aging stock data across all RCF dealers in West Bengal, enabling timely follow-up and clearance action.
 
